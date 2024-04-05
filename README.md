@@ -1,4 +1,4 @@
-# Retail Sales and Promotions Analysis
+# Retail Sales and Promotions Analysis with Tableau
 ## Introduction
 Retail promotions play a crucial role in driving sales, serving as strategic tools to boost consumer purchasing. However, while promotional campaigns often lead to increased sales volume, they also come at the cost of reduced prices. Therefore, it's imperative for retailers and companies to assess the effectiveness of promotions beyond short-term volume increases, focusing on their impact on profit margins and long-term sales. Our session today delves into evaluating the true effectiveness of sales promotions, leveraging insights to inform smarter, data-driven marketing strategies.
 
